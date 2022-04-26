@@ -11,7 +11,7 @@ import springfox.documentation.spring.web.plugins.Docket;
 
 @Configuration
 @EnableWebMvc
-public class Swagger2Config
+public class Swagger3Config
 {
   private static final String BASE_PACKAGE = "com.roman14.springbootpt.main.controller";
 
